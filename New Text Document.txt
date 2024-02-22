@@ -1,0 +1,11 @@
+/*
+ Template Name:  Yoga Example 3
+ Description:    A template create by Creelify Development Team
+ Author:         Kunwar Ahlawat
+ Author URI:     https://creelify.com
+ Version:        1.0.0
+ License:        Creelify Website Licence
+ License URI:    https://www.creelify.com/licenses
+ Tags:           light, dark, two-columns, responsive-layout, accessibility-ready
+ Text Domain:    Yoga
+*/

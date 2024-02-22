@@ -1,0 +1,35 @@
+/*
+ Template Name:  Yoga Example 5
+ Description:    A template create by Creelify Development Team
+ Author:         Kunwar Ahlawat
+ Author URI:     https://creelify.com
+ Version:        1.0.0
+ License:        Creelify Website Licence
+ License URI:    https://www.creelify.com/licenses
+ Tags:           light, dark, two-columns, responsive-layout, accessibility-ready
+ Text Domain:    Yoga
+*/
+@import "bootstrap/functions";
+@import "bootstrap/variables";
+
+//
+// Grid mixins
+//
+
+@import "bootstrap/mixins/breakpoints";
+
+
+// including variables and mixins
+@import "theme/variables";
+@import "theme/mixins";
+@import "theme/flexbox";
+@import "theme/reset";
+
+
+// Custom Scss 
+@import "theme/elements";
+@import "theme/header";
+@import "theme/home";
+@import "theme/blog";
+@import "theme/contact";
+@import "theme/footer";
