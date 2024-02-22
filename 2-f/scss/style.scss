@@ -1,0 +1,18 @@
+/* =============================================================================
+Main SCSS 
+Author: Kunwar Ahlawat
+Created By: https://creelify.com
+Email : contact@creelify.com
+Whatsapp : +91 9045743045 
+Description: This file contains the main styles for  website.
+============================================================================== */
+@import "bootstrap/functions";
+@import "bootstrap/variables";
+@import "bootstrap/mixins";
+
+/* Base */
+@import "site-base";
+/* Navbar */
+@import "site-navbar";
+/* Blocks */
+@import "site-blocks";
